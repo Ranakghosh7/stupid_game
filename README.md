@@ -8,7 +8,7 @@ Stupid Game is a deliberately silly, light‑hearted project created purely for 
 
 * **Ridiculous Gameplay:** Things happen for no logical reason. Buttons might do what they say… or not.
 * **Random Events:** Every playthrough may throw new nonsense your way.
-* **Questionable Physics:** Objects behave in ways that may or may not obey reality.
+* **Questionable Physics:** Objects behave in ways that may or may not obey reality.//
 * **Minimal Plot:** The story is whatever you decide it is.
 
 ## Installation
